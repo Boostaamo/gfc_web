@@ -39,14 +39,19 @@ export async function tallennaLiidi(l: Liidi): Promise<boolean> {
       method: "POST",
       headers: {
         apikey: y.avain,
-        Authorization: `Bearer ${y.avain}`,
+        // Uudet sb_secret_-avaimet eivät ole JWT:itä: Bearer vain vanhalle service_role-avaimelle.
+        ...(y.avain.startsWith("eyJ") ? { Authorization: `Bearer ${y.avain}` } : {}),
         "Content-Type": "application/json",
         Prefer: "return=minimal",
       },
       body: JSON.stringify(l),
       cache: "no-store",
     });
-    if (!res.ok) console.error(`Liidin tallennus epäonnistui, tila ${res.status}.`);
+    if (!res.ok) {
+      // Vain avainvirheissä viesti lokiin (ei sisällä liidin tietoja).
+      const syy = res.status === 401 || res.status === 403 ? ` ${(await res.text()).slice(0, 200)}` : "";
+      console.error(`Liidin tallennus epäonnistui, tila ${res.status}.${syy}`);
+    }
     return res.ok;
   } catch {
     console.error("Liidin tallennus epäonnistui (verkkovirhe).");
