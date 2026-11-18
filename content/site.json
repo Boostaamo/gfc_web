@@ -1,0 +1,29 @@
+{
+  "name": "Growth Flame Company",
+  "tagline": "Tuotannon ja kasvuyrityksen johtaminen",
+  "locale": "fi_FI",
+  "contactEmail": "hannu@gfc.fi",
+  "contactPhone": "040 1251 119",
+  "nav": [
+    { "label": "Tuotanto 4.0", "href": "/tuotanto-4-0" },
+    { "label": "Moderni tuotannon johtaminen", "href": "/moderni-tuotannon-johtaminen" },
+    { "label": "Kasvujohtaja", "href": "/kasvujohtaja" },
+    { "label": "Ota yhteyttä", "href": "/yhteys" }
+  ],
+  "cta": { "label": "Hae mukaan", "href": "/moderni-tuotannon-johtaminen/hae" },
+  "badge": "A Boostaamo Company",
+  "ecosystem": [
+    { "label": "Boostaamo", "href": "<täydennä: Boostaamon domain>" },
+    { "label": "Dimma", "href": "https://www.dimma.fi" },
+    { "label": "Grofi", "href": "https://www.grofi.fi" },
+    { "label": "AI Softarobotit", "href": "https://www.softarobotit.fi" },
+    { "label": "Bistek", "href": "https://www.bistek.fi" }
+  ],
+  "siteLinks": [
+    { "label": "Tuotanto 4.0", "href": "/tuotanto-4-0" },
+    { "label": "Moderni tuotannon johtaminen", "href": "/moderni-tuotannon-johtaminen" },
+    { "label": "Kasvujohtaja", "href": "/kasvujohtaja" },
+    { "label": "Tietosuoja", "href": "/tietosuoja" }
+  ],
+  "legalEntity": "Growth Flame Company Oy, Y-tunnus 3414656-9"
+}
