@@ -28,9 +28,9 @@ updated: 2026-11-18
 <div class="part"><div class="mono">Vuokrajohtajat</div><h3>Kasvujohtaja palveluna</h3><p>Kun yritys tarvitsee johtajan, mutta ei vielä kokoaikaista rekrytointia. <a href="/kasvujohtaja">Lue lisää</a></p></div>
 </div></div></section><section style="padding:72px 0"><div class="wrap"><div class="wcardL"><div><div class="mono" style="color:#5E5959">Maksuton webinaari</div>
 <h2 style="margin-top:8px">Tuotannon esihenkilö paineen alla</h2>
-<p style="margin-top:14px"><b>Torstai 26.11.2026 klo 8.30–9.30.</b> Maistiainen valmennuksen tavasta toimia ja sisällöstä. Et kuuntele esitystä, vaan osallistut.</p>
+<p style="margin-top:14px"><b>Torstai 7.1.2027 klo 8.30–9.30.</b> Maistiainen valmennuksen tavasta toimia ja sisällöstä. Et kuuntele esitystä, vaan osallistut.</p>
 <a class="btn o" href="/moderni-tuotannon-johtaminen#webinaari">Lue webinaarista</a></div>
-<div class="wform"><div class="mono">Ilmoittaudu</div><!--form:webinaari|2026-11-26 Tuotannon esihenkilö paineen alla--></div></div></div></section><section style="padding-top:24px"><div class="wrap"><div class="panel" style="margin-top:0">
+<div class="wform"><div class="mono">Ilmoittaudu</div><!--form:webinaari|2027-01-07 Tuotannon esihenkilö paineen alla--></div></div></div></section><section style="padding-top:24px"><div class="wrap"><div class="panel" style="margin-top:0">
 <h2>Haluatko jutella ensin?</h2>
 <p style="margin-top:12px">Varaa maksuton keskustelu, niin katsotaan yhdessä juuri sinun tilannettasi. Ei sitoumusta.</p>
 <a class="btn" href="/yhteys">Varaa keskustelu</a>
