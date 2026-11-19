@@ -16,7 +16,7 @@ updated: 2026-11-18
 <p style="margin-top:14px">Tilauskirja on täynnä, mutta toimitukset myöhästyvät, varasto sitoo rahaa ja esihenkilöt sammuttavat tulipaloja. Tuotanto 4.0 on kuuden kuukauden kehittämisohjelma valmistaville yrityksille: ensin selvitetään, mikä tuotantoa rajoittaa, sitten päivittäinen johtaminen otetaan käyttöön ja kehityskohteet viedään läpi lyhyinä kokeiluina.</p>
 <a class="btn o" href="/tuotanto-4-0">Lue Tuotanto 4.0:sta</a></div>
 <div class="card" style="--cc:#182A50"><div class="mono" style="color:#5E5959">Uutta: esihenkilöille</div><h2 style="margin-top:8px">Moderni tuotannon johtaminen</h2>
-<p style="margin-top:14px">Tuotannon esihenkilövalmennus Himoksella keväällä 2027. Kolme ulottuvuutta: inhimillinen ihmisyys, faktapohjainen johtaminen sekä tekninen ja teknologinen kyvykkyys. 11 koulutuspäivää noin viiden kuukauden aikana, kaksi kouluttajaa joka päivä, ja muutos mitataan yrityksen omalla tunnusluvulla. Haku päättyy viikolla 50.</p>
+<p style="margin-top:14px">Tuotannon esihenkilövalmennus Himoksella keväällä 2027. Kolme ulottuvuutta: inhimillinen ihmisyys, faktapohjainen johtaminen sekä tuotannon johtamisen kyvykkyys. 11 koulutuspäivää noin viiden kuukauden aikana, kaksi kouluttajaa joka päivä, ja muutos mitataan yrityksen omalla tunnusluvulla. Haku päättyy viikolla 50.</p>
 <a class="btn" href="/moderni-tuotannon-johtaminen">Lue valmennuksesta ja hae mukaan</a></div>
 </div></div></section><section style="padding:72px 0"><div class="wrap"><div class="mono" style="color:#5E5959;margin-bottom:10px">Kasvukoneiston ohjausjärjestelmä</div>
 <h2>Mitä Growth Flame Company tekee</h2>
