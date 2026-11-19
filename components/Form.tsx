@@ -93,8 +93,8 @@ export default function Form({ kind, arg, source }: { kind: FormKind; arg?: stri
             tuotannon_tyyppi: g("production"),
             johtamishaaste: g("challenge"),
             tunnusluku: g("metric"),
-            esimiehen_tuki: g("support"),
-            esimiehen_yhteystieto: g("supervisor"),
+            esihenkilon_tuki: g("support"),
+            esihenkilon_yhteystieto: g("supervisor"),
             useampi_hakija: g("several"),
             mista_kuuli: g("heard"),
           }
@@ -151,8 +151,8 @@ export default function Form({ kind, arg, source }: { kind: FormKind; arg?: stri
           <Field label="Mikä on tuotantosi tyyppi?" name="production" />
           <Field label="Mikä on suurin johtamishaasteesi juuri nyt?" name="challenge" textarea required />
           <Field label="Mikä tunnusluku kertoisi, että olet kehittynyt?" name="metric" textarea />
-          <Choice label="Tukeeko esimiehesi hakemusta ja välitehtävien tekoa?" name="support" options={["Kyllä", "Ei", "En tiedä"]} required />
-          <Field label="Esimiehen yhteystieto" name="supervisor" />
+          <Choice label="Tukeeko esihenkilösi hakemusta ja välitehtävien tekoa?" name="support" options={["Kyllä", "Ei", "En tiedä"]} required />
+          <Field label="Esihenkilön yhteystieto" name="supervisor" />
           <Choice label="Hakeeko yrityksestänne useampi?" name="several" options={["Kyllä", "Ei"]} />
           <Choice label="Mistä kuulit koulutuksesta?" name="heard" options={["Kontakti", "Webinaari", "LinkedIn", "Muu"]} />
         </>

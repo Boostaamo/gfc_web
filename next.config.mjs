@@ -7,6 +7,7 @@ const nextConfig = {
   async redirects() {
     return [
       { source: "/kasvuyrittaja", destination: "/", permanent: false },
+      { source: "/moderni-tuotannon-johtaminen/esimiehelle", destination: "/moderni-tuotannon-johtaminen/esihenkilolle", permanent: true },
       { source: "/wp-sitemap.xml", destination: "/sitemap.xml", permanent: true },
       { source: "/wp-admin/:path*", destination: "/", permanent: true },
       { source: "/wp-content/:path*", destination: "/", permanent: true },
