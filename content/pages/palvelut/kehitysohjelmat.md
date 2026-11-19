@@ -1,5 +1,5 @@
 ---
-title: "Kehitysohjelmat: Tuotanto 4.0, Myynti 4.0 ja Johtoryhmä 4.0 | Growth Flame Company"
+title: "Kehitysohjelmat: Tuotanto 4.0, Myynti 4.0 ja Johtoryhmä 4.0"
 description: "Kuuden kuukauden kehitysohjelma, jossa johtoryhmätyö, valmennus ja käytännön kehitys tehdään yhdessä. Kolme tasoa."
 updated: 2026-11-19
 ---

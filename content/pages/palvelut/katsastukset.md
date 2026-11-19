@@ -1,5 +1,5 @@
 ---
-title: "Katsastukset: pikakatsastus, syväkatsastus ja täyskatsastus | Growth Flame Company"
+title: "Katsastukset: pikakatsastus, syväkatsastus ja täyskatsastus"
 description: "Ohjausjärjestelmän pikakatsastus on maksuton. Syväkatsastus selvittää johtamisen pullonkaulan syyn, ja täyskatsastus katsastaa koko kasvukoneiston."
 updated: 2026-11-19
 ---

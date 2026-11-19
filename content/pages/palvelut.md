@@ -1,5 +1,5 @@
 ---
-title: "Palvelut | Katsastukset, kehitysohjelmat, koulutukset ja vuokrajohtajat | Growth Flame Company"
+title: "Palvelut | Katsastukset, kehitysohjelmat, koulutukset ja vuokrajohtajat"
 description: "Growth Flame Company on kasvukoneiston ohjausjärjestelmä. Aloita maksuttomalla pikakatsastuksella, jatka syväkatsastukseen, kehitysohjelmaan, koulutukseen tai vuokrajohtajaan."
 updated: 2026-11-19
 ---
