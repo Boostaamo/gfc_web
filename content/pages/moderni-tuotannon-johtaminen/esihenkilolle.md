@@ -26,7 +26,7 @@ updated: 2026-11-18
 <table class="t"><tbody><tr><td>Osallistuja</td><td>4 900 €</td></tr><tr><td>Yrityspaketti, 3 osallistujaa</td><td>14 700 €</td></tr><tr><td>Lisäosallistuja yrityspaketin päälle</td><td>3 900 €</td></tr></tbody></table>
 <p>Hintaan kuuluvat valmistava työ, 11 koulutuspäivää, materiaalit ja ruokailut koulutuspäivinä. Majoitus Himoksella varataan erikseen ryhmähinnalla. Yrityspakettiin sisältyy lisäksi <b>Kasvukoneiston täyskatsastus</b> yrityksessänne: kaikki kasvukoneiston osa-alueet katsastetaan, painopiste tuotannossa, ja tuloksena on Kasvun Tiekartta koko yritykselle.</p>
 <h2 style="margin-top:48px">Miten haetaan</h2>
-<ol style="margin-top:14px"><li>Osallistuja (tai sinä) täyttää lyhyen hakemuksen: tehtävä, tiimin koko, johtamishaaste ja esihenkilön tuki.</li><li>Hakija varaa 20 minuutin haastattelun (puhelu tai Teams).</li><li>Haku päättyy vko 50/2026. Valinnat ilmoitetaan vko 51 mennessä, mutta ensimmäiset paikat vahvistetaan jo haun aikana.</li></ol>
+<ol style="margin-top:14px"><li>Osallistuja (tai sinä) täyttää lyhyen hakemuksen: tehtävä, tiimin koko, johtamishaaste ja esihenkilön tuki.</li><li>Hakija varaa 20 minuutin haastattelun (puhelu tai Teams).</li><li>Haku päättyy ke 13.1.2027. Valinnat ilmoitetaan to 14.1.2027, mutta ensimmäiset paikat vahvistetaan jo haun aikana.</li></ol>
 <p>Ryhmä toteutuu, kun valittuna on vähintään 8 osallistujaa.</p>
 <p><b>Yhteyshenkilö:</b> Hannu Savela, <a href="mailto:hannu@gfc.fi">hannu@gfc.fi</a>, <a href="tel:0401251119">040 1251 119</a>.</p>
 <p><span class="todo">&lt;täydennä: PDF-versio yhteenvedosta&gt;</span></p>

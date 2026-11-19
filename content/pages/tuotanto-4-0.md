@@ -17,7 +17,7 @@ updated: 2026-11-18
 <li>Materiaalit loppuvat, ja samalla varasto on täynnä vääriä nimikkeitä.</li>
 <li>Laatu vaihtelee, ja reklamaatiot toistuvat.</li>
 <li>Koneet seisovat, eikä kukaan tiedä tarkalleen miksi.</li>
-<li>Kokeneiden osaaminen on vain heidän päässään.</li></ul></div></section><section style="padding:72px 0"><div class="wrap"><div class="mono" style="color:#5E5959;margin-bottom:10px">Mihin ohjelma perustuu</div>
+<li>Kokeneiden osaaminen on vain heidän päässään.</li></ul></div></section><section style="padding:72px 0"><div class="wrap"><div class="mono" style="color:var(--muted);margin-bottom:10px">Mihin ohjelma perustuu</div>
 <h2>Tunnetut mallit, jotka sopivat pk-yritykseen ilman suuria investointeja</h2>
 <div class="grid3">
 <div class="card"><h3>Lean-johtaminen</h3><p style="margin-top:10px">Virtaus, hukan poisto ja jatkuva parantaminen.</p></div>

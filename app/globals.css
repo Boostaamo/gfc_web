@@ -1,4 +1,4 @@
-/* gfc.fi: pohjana Boostaamon ulkoasu A (boostaamo_web). GFC:n arvot (Hannu 17.11.2026): GFC #182A50, paperi #EDE9E9, hiili #0C0C0D, Archivo + IBM Plex Sans, ei Hehkua. Lähde: brief GFC v4, Konserni/04 Markkinointi ja brändi/Verkkosivut/Luonnokset */
+/* gfc.fi: pohjana Boostaamon ulkoasu A (boostaamo_web). Värit: "GFC verkkosivujen värimääritykset v1" (markkinointipäällikkö, Hannu hyväksyi 19.11.2026), ks. tiedoston lopun tokenit. Archivo + IBM Plex Sans, ei Hehkua. */
 :root{
   --hiili:#0C0C0D;--paperi:#EDE9E9;--valkoinen:#FFFFFF;--pehmea:#F6F3F3;--hiusviiva:#E2DDDD;--savu:#B9B3B3;--harmaa:#5E5959;
   --hehku:#182A50;--hehku-teksti:#8A5A00;
@@ -202,3 +202,67 @@ table.t th{font-family:var(--font-otsikko);font-weight:800}
 
 /* Kouluttajien kuvat */
 .card img.kouluttaja { display:block; width:100%; max-width:220px; aspect-ratio:1/1; height:auto; object-fit:cover; border-radius:50%; margin:0 0 18px; box-shadow:0 0 0 1px rgba(12,12,13,.10); }
+
+/* ===== GFC värimääritykset v1 (19.11.2026, Hannu hyväksyi). Tokenit ja käyttö. ===== */
+:root{
+  --navy:#182A50;--navy-2:#243B6B;--accent:#C2410C;--accent-fill:#E8590C;
+  --bg:#F5F7FB;--surface:#FFFFFF;--fg:#16213A;--muted:#55607A;--line:#D9DEEA;
+  --on-navy:#FFFFFF;--on-accent:#FFFFFF;
+  --soft:#EBEFF7; /* johdettu: pehmeä kortti (ei määrityksessä) */
+  --korostus-vaalea:#AFC0E2;
+  color-scheme:light;
+}
+@media (prefers-color-scheme:dark){
+  :root:not([data-theme="light"]){
+    --navy:#0F1B38;--navy-2:#1A2D58;--accent:#FF7A33;--accent-fill:#FF7A33;
+    --bg:#0C1427;--surface:#142040;--fg:#EAEFFA;--muted:#A5B0CA;--line:#28385F;
+    --on-accent:#16213A;--soft:#1A2A4F;color-scheme:dark;
+  }
+}
+:root[data-theme="dark"]{
+  --navy:#0F1B38;--navy-2:#1A2D58;--accent:#FF7A33;--accent-fill:#FF7A33;
+  --bg:#0C1427;--surface:#142040;--fg:#EAEFFA;--muted:#A5B0CA;--line:#28385F;
+  --on-accent:#16213A;--soft:#1A2A4F;color-scheme:dark;
+}
+body{background:var(--bg);color:var(--fg)}
+.top{background:var(--surface);border-bottom:1px solid var(--line)}
+.wm{color:var(--navy)}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]) .wm{color:var(--fg)}}
+:root[data-theme="dark"] .wm{color:var(--fg)}
+.foot .wm{color:var(--on-navy)}
+/* Painike: tausta korostus, teksti on-accent, kulmat 4 px, Archivo 600 */
+.btn,.nav a.btn,.button,.hero.gfc .btn,.hero.bleed .btn{background:var(--accent);color:var(--on-accent);border-radius:4px;font-weight:600}
+.btn:hover,.nav a.btn:hover,.button:hover,.hero.gfc .btn:hover{background:var(--navy-2);color:var(--on-navy)}
+.btn.o,.button.secondary{background:transparent;color:var(--fg);box-shadow:inset 0 0 0 2px var(--fg)}
+.btn.o:hover,.button.secondary:hover{background:var(--fg);color:var(--bg)}
+.hero.gfc .btn.o,.wcardL.dk .btn.o{background:transparent;color:var(--on-navy);box-shadow:inset 0 0 0 2px var(--on-navy)}
+.hero.gfc .btn.o:hover{background:var(--on-navy);color:var(--navy)}
+.cbtn{border-radius:4px}
+/* Focus: 3 px korostus, 2 px etäisyys */
+a:focus-visible,.btn:focus-visible,.fld:focus-visible,button:focus-visible,summary:focus-visible{outline:3px solid var(--accent);outline-offset:2px}
+.hero.gfc a:focus-visible{outline-color:var(--accent)}
+/* Pinnat */
+.hero.gfc{background:var(--navy);color:var(--on-navy)}
+.card,.wform,.consent{background:var(--surface);border-color:var(--line);color:var(--fg)}
+.card.soft,.step,.panel,.wcardL,.formok{background:var(--soft);color:var(--fg)}
+.card:after,.part:after{background:var(--navy)}
+.wcardL:before{background:var(--accent-fill)}
+.wcardL.dk,.dark .wrap,section.dark .wrap{background:var(--navy);color:var(--on-navy)}
+.wcardL.dk .mono{color:var(--korostus-vaalea)}
+.wcardL.dk .wform .mono,.wform .mono{color:var(--muted)}
+.foot{background:var(--navy);color:var(--on-navy)}
+.foot a,.foot .link-button{color:var(--on-navy)}
+.small,.legal,.crumb a{color:var(--muted)}
+.part{border-color:var(--line)}
+.fld{background:var(--surface);color:var(--fg);border-color:var(--muted)}
+.dk .wform .fld{background:var(--surface)}
+table.t th,table.t td,.faq details{border-color:var(--line)}
+.price{background:var(--navy);color:var(--on-navy)}
+.dd{background:var(--navy);color:var(--on-navy)}
+.free{background:var(--fg);color:var(--bg)}
+.todo{background:#FFF3D1;color:#16213A}
+a{color:inherit}
+.legalp a,.card p a,.faq a,.pg p a{color:var(--accent)}
+.hero.gfc a:not(.btn){color:var(--on-navy)}
+/* Kuvat mustavalkoisina */
+.card img.kouluttaja{filter:grayscale(1);box-shadow:0 0 0 1px var(--line)}

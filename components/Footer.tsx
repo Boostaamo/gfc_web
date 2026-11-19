@@ -7,7 +7,7 @@ export default function Footer() {
   return (
     <footer className="foot">
       <div className="wrap">
-        <div className="wm" style={{ color: "#EDE9E9", fontSize: 22 }}>GROWTH FLAME COMPANY</div>
+        <div className="wm" style={{ color: "var(--on-navy)", fontSize: 22 }}>GROWTH FLAME COMPANY</div>
         <div className="mono" style={{ marginTop: 8 }}><span className="dot" />{site.badge}</div>
         <div className="fcols">
           <div>

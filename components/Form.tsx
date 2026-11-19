@@ -35,7 +35,7 @@ const THANKS: Record<FormKind, string> = {
 const CONSENT: Record<FormKind, string> = {
   hakemus: "Hyväksyn, että Growth Flame Company ottaa minuun yhteyttä hakemukseni käsittelyä varten.",
   yhteys: "Hyväksyn, että Growth Flame Company tai konsernin yhtiö, jolle viestini ohjataan, ottaa minuun yhteyttä.",
-  webinaari: "Hyväksyn, että Growth Flame Company lähettää minulle webinaarin tiedot ja nauhoitteen.",
+  webinaari: "Hyväksyn, että Growth Flame Company lähettää minulle webinaarin tiedot ja muistutuksen.",
 };
 
 function Field({ label, name, type = "text", required, autoComplete, textarea }: {
@@ -44,7 +44,7 @@ function Field({ label, name, type = "text", required, autoComplete, textarea }:
   const id = `${useId()}-${name}`;
   return (
     <label htmlFor={id} style={{ display: "grid", gap: 4 }}>
-      <span className="mono" style={{ color: "#5E5959" }}>{label}{required ? " *" : ""}</span>
+      <span className="mono" style={{ color: "var(--muted)" }}>{label}{required ? " *" : ""}</span>
       {textarea
         ? <textarea id={id} name={name} rows={4} className="fld" maxLength={4000} required={required} />
         : <input id={id} name={name} type={type} className="fld" required={required} autoComplete={autoComplete} maxLength={200} />}
@@ -58,7 +58,7 @@ function Choice({ label, name, options, required, defaultValue }: {
   const id = `${useId()}-${name}`;
   return (
     <label htmlFor={id} style={{ display: "grid", gap: 4 }}>
-      <span className="mono" style={{ color: "#5E5959" }}>{label}{required ? " *" : ""}</span>
+      <span className="mono" style={{ color: "var(--muted)" }}>{label}{required ? " *" : ""}</span>
       <select id={id} name={name} className="fld" required={required} defaultValue={defaultValue ?? ""}>
         <option value="" disabled>Valitse</option>
         {options.map((o) => <option key={o} value={o}>{o}</option>)}

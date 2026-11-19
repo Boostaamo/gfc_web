@@ -30,8 +30,8 @@ Pohja: Boostaamon sivusto (boostaamo_web), Hannu 17.11.2026. Kokonaisohje: boost
 - Jos teksti puuttuu, jätä <täydennä> ja kerro, mitä tarvitaan. Älä kirjoita markkinointiviestejä itse.
 
 ### Säännöt
-- Konversiopisteet: hakemus valmennukseen (haku päättyy vko 50/2026) ja keskustelupyyntö (`generate_lead`, lahde-parametri), webinaari (`sign_up`).
-- Ulkoasu: GFC #182A50, paperi #EDE9E9, hiili #0C0C0D, Archivo + IBM Plex Sans, ei Hehkua. Tekstilogo.
+- Konversiopisteet: hakemus valmennukseen (haku päättyy ke 13.1.2027, valinnat to 14.1.2027) ja keskustelupyyntö (`generate_lead`, lahde-parametri), webinaari (`sign_up`).
+- Ulkoasu: "GFC verkkosivujen värimääritykset v1" (19.11.2026): laivastonsininen #182A50, korostus #C2410C (painikkeet, linkit), koriste #E8590C (vain viivat), tausta #F5F7FB, teksti #16213A, tumma teema prefers-color-scheme. Tokenit app/globals.css lopussa. Archivo + IBM Plex Sans, ei Hehkua. Tekstilogo. Kuvat mustavalkoisina.
 - Alalaidassa "A Boostaamo Company" ja ekosysteemilinkit.
 - Liidit: Supabase (EU), GFC:n oma projekti (supabase/migrations). Säilytys 24 kk. Ei Upstashia.
 - Hinnat: vain valmennuksen hinnat (Hannu 17.11.2026). Tuotanto 4.0:n ja kypsyysarvion hintoja ei julkaista.

@@ -6,7 +6,7 @@ updated: 2026-11-18
 
 <div class="pg">
 <section class="hero" style="padding:64px 0 40px"><div class="wrap">
-<div class="mono" style="color:#5E5959;margin-bottom:16px">Tietosuoja</div>
+<div class="mono" style="color:var(--muted);margin-bottom:16px">Tietosuoja</div>
 <h1>Tietosuojaseloste</h1>
 <p class="lead"></p>
 </div></section><section style="padding:48px 0;padding-top:0"><div class="wrap"><div class="legalp">

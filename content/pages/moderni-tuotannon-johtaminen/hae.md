@@ -1,6 +1,6 @@
 ---
 title: "Hae mukaan: Moderni tuotannon johtaminen"
-description: "Mukaan haetaan lyhyellä hakemuksella ja 20 minuutin haastattelulla. Haku päättyy viikolla 50/2026."
+description: "Mukaan haetaan lyhyellä hakemuksella ja 20 minuutin haastattelulla. Haku päättyy ke 13.1.2027."
 updated: 2026-11-18
 ---
 
@@ -12,7 +12,7 @@ updated: 2026-11-18
 
 <div class="cta"></div>
 </div></section><section style="padding:72px 0"><div class="wrap"><div class="grid2" style="margin-top:0;align-items:start">
-<div><p>Haku päättyy viikolla 50/2026. Valinnat ilmoitetaan viikkoon 51 mennessä, ja ensimmäiset paikat vahvistetaan jo haun aikana.</p>
+<div><p>Haku päättyy ke 13.1.2027. Valinnat ilmoitetaan to 14.1.2027, ja ensimmäiset paikat vahvistetaan jo haun aikana.</p>
 <div class="steps" style="grid-template-columns:1fr">
 <div class="step"><div class="n">1</div><h3>Hakemus</h3><p>Kerro tehtäväsi, tiimisi koko, oma johtamishaasteesi ja esihenkilön tuki. Vie alle viisi minuuttia.</p></div>
 <div class="step"><div class="n">2</div><h3>Haastattelu</h3><p>Varaa 20 minuutin puhelu tai Teams-tapaaminen. Valintakriteerit: esihenkilö- tai työnjohtotehtävä nyt tai pian, esihenkilön tuki ja valmius tehdä välitehtävät.</p></div>
