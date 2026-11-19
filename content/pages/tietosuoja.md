@@ -14,7 +14,7 @@ updated: 2026-11-18
 <h2>Rekisterinpitäjä</h2><p>Growth Flame Company Oy, Y-tunnus 3414656-9. Postiosoite: Kaaritie 12 as. 4, 42220 Kaipola.</p>
 <p>Yhteyshenkilö tietosuoja-asioissa: Hannu Savela, <a href="mailto:hannu@boostaamo.fi">hannu@boostaamo.fi</a>.</p>
 <h2>Mitä tietoja keräämme ja miksi</h2><ul>
-<li><b>Hakulomake (Moderni tuotannon johtaminen):</b> nimi, yritys, tehtävä, sähköposti, puhelinnumero, hakemuksen vastaukset ja esihenkilön yhteystieto, jos annat sen. Käytämme tietoja hakemuksen käsittelyyn, haastatteluun ja valintaan.</li>
+<li><b>Hakulomake (Moderni tuotannon johtaminen):</b> nimi, yritys, tehtävä, sähköposti, puhelinnumero, hakemuksen vastaukset ja oman esihenkilön yhteystieto, jos annat sen. Käytämme tietoja hakemuksen käsittelyyn, haastatteluun ja valintaan.</li>
 <li><b>Yhteydenottolomake:</b> nimi, sähköposti, yritys, puhelinnumero, tarve ja viesti sekä tieto siitä, miltä sivulta ja mistä markkinointikanavasta (UTM-tunnisteet) lomake lähetettiin. Käytämme tietoja yhteydenottoosi vastaamiseen ja mahdollisen yhteistyön valmisteluun.</li>
 <li><b>Webinaarit:</b> ilmoittautumisen tiedot. Käytämme niitä webinaarikutsun, muistutusten ja tallenteen lähettämiseen.</li>
 <li><b>Analytiikka:</b> kävijämäärät ja sivujen käyttö Google Analyticsilla, vain jos hyväksyt analytiikkaevästeet. Emme yhdistä analytiikkatietoja lomakkeen tietoihin.</li>

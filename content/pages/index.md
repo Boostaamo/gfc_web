@@ -20,13 +20,14 @@ updated: 2026-11-18
 <a class="btn" href="/moderni-tuotannon-johtaminen">Lue valmennuksesta ja hae mukaan</a></div>
 </div></div></section><section style="padding:72px 0"><div class="wrap"><div class="mono" style="color:var(--muted);margin-bottom:10px">Kasvukoneiston ohjausjärjestelmä</div>
 <h2>Mitä Growth Flame Company tekee</h2>
-<p style="margin-top:14px">Kasvukoneistossa GFC on ohjausjärjestelmä. Kun suunta, päätökset ja vastuut ovat selvät, muut osat toimivat yhdessä.</p>
+<p style="margin-top:14px">Kasvukoneistossa GFC on ohjausjärjestelmä (A Boostaamo Company). Kun suunta, päätökset ja vastuut ovat selvät, muut osat toimivat yhdessä.</p>
 <div class="parts">
-<div class="part"><div class="mono">Analyysi</div><h3>Kasvuanalyysit ja arvonluontisuunnitelmat</h3><p>Katsotaan yhdessä, mikä kasvua jarruttaa ja mihin kannattaa panostaa ensin. <span class="todo">&lt;täydennä: kuvaus ja vahvistettu tuotenimi, tuotepäällikkö&gt;</span></p></div>
-<div class="part"><div class="mono">Kehittämisohjelmat</div><h3>Tuotanto 4.0</h3><p>Johtaminen tehdään näkyväksi: tavoitteet, tunnusluvut, rytmi ja vastuut. Ensimmäisenä tuotannon kehittäminen. <a href="/tuotanto-4-0">Lue lisää</a></p></div>
-<div class="part"><div class="mono">Koulutukset</div><h3>Esihenkilöille ja johdolle</h3><p>Ensimmäisenä Moderni tuotannon johtaminen. <a href="/moderni-tuotannon-johtaminen">Lue lisää</a></p></div>
+<div class="part"><div class="mono">Katsastukset</div><h3>Katso ensin, mikä jarruttaa</h3><p>Ohjausjärjestelmän pikakatsastus on maksuton ja katsastaa johtamisen ja strategian. Syväkatsastus kaivaa pullonkaulan syyn esiin, ja Kasvukoneiston täyskatsastus katsastaa koko kasvukoneiston. <a href="/palvelut/katsastukset">Katsastukset</a></p></div>
+<div class="part"><div class="mono">Kehitysohjelmat</div><h3>Tuotanto 4.0, Myynti 4.0 ja Johtoryhmä 4.0</h3><p>Kuuden kuukauden ohjelma, jossa johtoryhmätyö, valmennus ja käytännön kehitys tehdään yhdessä. <a href="/palvelut/kehitysohjelmat">Kehitysohjelmat</a></p></div>
+<div class="part"><div class="mono">Koulutukset</div><h3>Esihenkilöille ja johdolle</h3><p>Tuotannon esihenkilöille ja johdolle. Ensimmäisenä Moderni tuotannon johtaminen. <a href="/moderni-tuotannon-johtaminen">Lue koulutuksesta</a></p></div>
 <div class="part"><div class="mono">Vuokrajohtajat</div><h3>Kasvujohtaja palveluna</h3><p>Kun yritys tarvitsee johtajan, mutta ei vielä kokoaikaista rekrytointia. <a href="/kasvujohtaja">Lue lisää</a></p></div>
-</div></div></section><section style="padding:72px 0"><div class="wrap"><div class="wcardL"><div><div class="mono" style="color:var(--muted)">Maksuton webinaari</div>
+</div>
+<p style="margin-top:24px"><a class="btn o" href="/palvelut">Kaikki palvelut</a></p></div></div></section><section style="padding:72px 0"><div class="wrap"><div class="wcardL"><div><div class="mono" style="color:var(--muted)">Maksuton webinaari</div>
 <h2 style="margin-top:8px">Tuotannon esihenkilö paineen alla</h2>
 <p style="margin-top:14px"><b>Torstai 7.1.2027 klo 8.30–9.30.</b> Maistiainen valmennuksen tavasta toimia ja sisällöstä. Et kuuntele esitystä, vaan osallistut.</p>
 <a class="btn o" href="/moderni-tuotannon-johtaminen#webinaari">Lue webinaarista</a></div>

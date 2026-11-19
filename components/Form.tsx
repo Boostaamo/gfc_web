@@ -151,8 +151,8 @@ export default function Form({ kind, arg, source }: { kind: FormKind; arg?: stri
           <Field label="Mikä on tuotantosi tyyppi?" name="production" />
           <Field label="Mikä on suurin johtamishaasteesi juuri nyt?" name="challenge" textarea required />
           <Field label="Mikä tunnusluku kertoisi, että olet kehittynyt?" name="metric" textarea />
-          <Choice label="Tukeeko esihenkilösi hakemusta ja välitehtävien tekoa?" name="support" options={["Kyllä", "Ei", "En tiedä"]} required />
-          <Field label="Esihenkilön yhteystieto" name="supervisor" />
+          <Choice label="Tukeeko oma esihenkilösi hakemusta ja välitehtävien tekoa?" name="support" options={["Kyllä", "Ei", "En tiedä"]} required />
+          <Field label="Oman esihenkilösi yhteystieto" name="supervisor" />
           <Choice label="Hakeeko yrityksestänne useampi?" name="several" options={["Kyllä", "Ei"]} />
           <Choice label="Mistä kuulit koulutuksesta?" name="heard" options={["Kontakti", "Webinaari", "LinkedIn", "Muu"]} />
         </>
